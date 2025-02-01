@@ -1,3 +1,3 @@
-"Functional Calculator"
-->using javascript, css, html
-->Created by Aman!
+"Functional Calculator" <br/>
+->using javascript, css, html <br/>
+->Created by Aman! 
